@@ -1,11 +1,16 @@
 _repo: The-Summers-readers-second-reader_71019
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71019-h/images/cover.jpg
 creator:
   author:
     agent_name: Summers, Maud
     gutenberg_agent_id: '54204'
     url: http://www.gutenberg.org/2009/agents/54204
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71019#The-Summers-readers-second-reader
 gutenberg_issued: '2023-06-22'
 identifiers:
   gutenberg: '71019'
